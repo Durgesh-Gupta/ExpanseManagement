@@ -1,0 +1,48 @@
+[
+    {
+        "name": "Readme Watch 2",
+        "description": "Readme smartwatch for fitness and easy connect",
+        "rating": 4,
+        "price": 2599,
+        "category": "Electronics",
+        "images": [
+            {
+                "public_id": "ffvfvff",
+                "url": "vfvfvfvf"
+            }
+        ],
+        "saller": "Reeadme",
+        "stock": 50,
+        "numofreviews": 5477,
+        "reviews": [
+            {
+                "name": "Amit",
+                "rating": 4.5,
+                "comment": "Good Products in this range"
+            }
+        ]
+    },
+    {
+        "name": "Nikon 4000",
+        "description": "Latest Camera for capture moments",
+        "rating": 4,
+        "price": 2599,
+        "category": "Cemeras",
+        "images": [
+            {
+                "public_id": "ffvfvff",
+                "url": "vfvfvfvf"
+            }
+        ],
+        "saller": "Nikonn",
+        "stock": 50,
+        "numofreviews": 5477,
+        "reviews": [
+            {
+                "name": "Golu",
+                "rating": 4.5,
+                "comment": "Best Products "
+            }
+        ]
+    }
+]
